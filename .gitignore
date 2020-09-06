@@ -1,0 +1,14 @@
+node_modules/
+storybook-static/
+
+# 出力ファイル
+dist/
+
+# エラー関係
+package-lock.json
+yarn-error.log
+npm-debug.log
+
+# エディタなどで生成されるファイル
+.idea/
+.DS_Store
